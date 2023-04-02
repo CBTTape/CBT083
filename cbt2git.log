@@ -1,0 +1,57 @@
+2023-04-02 21:26:08.079250 - Initialized conversion of CBT083
+2023-04-02 21:26:08.559978 - Received CBT.V504.FILE083.PDS from FILE083.XMI 
+2023-04-02 21:26:08.562378 - Found $$$$CBT.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/$$$$CBT
+2023-04-02 21:26:08.563390 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/$$$#DATE
+2023-04-02 21:26:08.564387 - Found $$$READ.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/$$$READ
+2023-04-02 21:26:08.565820 - Found $$INDEX.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/$$INDEX
+2023-04-02 21:26:08.566914 - Found $ASM.jcl (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/$ASM
+2023-04-02 21:26:08.568071 - Found $ASM1.jcl (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/$ASM1
+2023-04-02 21:26:08.569066 - Found $DOC370.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/$DOC370
+2023-04-02 21:26:08.569963 - Found $DOC390.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/$DOC390
+2023-04-02 21:26:08.570980 - Found $IN370.jcl (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/$IN370
+2023-04-02 21:26:08.572413 - Found $IN390.jcl (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/$IN390
+2023-04-02 21:26:08.573464 - Found $IN390A.jcl (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/$IN390A
+2023-04-02 21:26:08.585740 - Found $LOADLIB.xmi (application/xmit) in CBT.V504.FILE083.PDS
+2023-04-02 21:26:08.595686   - Received RECFM=U data, stored XMIT file as CBT083/$LOADLIB.xmi
+2023-04-02 21:26:08.597211 - Found $MAPDOC.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/$MAPDOC
+2023-04-02 21:26:08.598702 - Found $RUN.jcl (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/$RUN
+2023-04-02 21:26:08.599748 - Found $RUN1.jcl (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/$RUN1
+2023-04-02 21:26:08.600759 - Found @FILE083.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/@FILE083
+2023-04-02 21:26:08.601759 - Found CATDEV.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/CATDEV
+2023-04-02 21:26:08.602903 - Found EXTREFS.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/EXTREFS
+2023-04-02 21:26:08.604084 - Found ICFCAT.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/ICFCAT
+2023-04-02 21:26:08.605200 - Found IEHMAP.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/IEHMAP
+2023-04-02 21:26:08.606469 - Found IEHMAPCT.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/IEHMAPCT
+2023-04-02 21:26:08.607689 - Found IEHMAPIN.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/IEHMAPIN
+2023-04-02 21:26:08.608705 - Found MAPCATI.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/MAPCATI
+2023-04-02 21:26:08.609622 - Found MAPCAT2.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/MAPCAT2
+2023-04-02 21:26:08.610527 - Found MAPCAT3.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/MAPCAT3
+2023-04-02 21:26:08.611803 - Found MAPDEV.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/MAPDEV
+2023-04-02 21:26:08.612948 - Found MAPGRES.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/MAPGRES
+2023-04-02 21:26:08.614408 - Found MAPGRESO.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/MAPGRESO
+2023-04-02 21:26:08.615609 - Found MAPINIT.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/MAPINIT
+2023-04-02 21:26:08.616839 - Found MAPINITA.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/MAPINITA
+2023-04-02 21:26:08.617834 - Found MAPSPACE.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/MAPSPACE
+2023-04-02 21:26:08.618796 - Found MAPTRACK.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/MAPTRACK
+2023-04-02 21:26:08.619890 - Found MAPVMSG.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/MAPVMSG
+2023-04-02 21:26:08.619902 - Found OBJMAP.bin containing application/octet-stream, moved to PDS/OBJMAP
+2023-04-02 21:26:08.620990 - Found OBJMAPIN.bin containing application/octet-stream, moved to PDS/OBJMAPIN
+2023-04-02 21:26:08.622846 - Found REQU.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/REQU
+2023-04-02 21:26:08.624356 - Found SRCMAP.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/SRCMAP
+2023-04-02 21:26:08.625669 - Found SRCMAPIN.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/SRCMAPIN
+2023-04-02 21:26:08.626809 - Found WORKAREA.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/WORKAREA
+2023-04-02 21:26:08.627879 - Found ZAPEDIT.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/ZAPEDIT
+2023-04-02 21:26:08.628848 - Found ZAPKEY.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/ZAPKEY
+2023-04-02 21:26:08.629742 - Found ZAP1.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/ZAP1
+2023-04-02 21:26:08.630737 - Found ZAP10.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/ZAP10
+2023-04-02 21:26:08.632122 - Found ZAP11.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/ZAP11
+2023-04-02 21:26:08.633239 - Found ZAP12.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/ZAP12
+2023-04-02 21:26:08.634389 - Found ZAP13.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/ZAP13
+2023-04-02 21:26:08.635415 - Found ZAP2.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/ZAP2
+2023-04-02 21:26:08.636515 - Found ZAP3.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/ZAP3
+2023-04-02 21:26:08.637472 - Found ZAP4.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/ZAP4
+2023-04-02 21:26:08.638733 - Found ZAP5.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/ZAP5
+2023-04-02 21:26:08.639968 - Found ZAP6.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/ZAP6
+2023-04-02 21:26:08.641186 - Found ZAP7.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/ZAP7
+2023-04-02 21:26:08.642327 - Found ZAP8.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/ZAP8
+2023-04-02 21:26:08.643467 - Found ZAP9.txt (text/plain) in CBT.V504.FILE083.PDS, moved to PDS/ZAP9
